@@ -1,8 +1,3 @@
--- ============================================================================
--- Arquivo: 03_views_relatorios.sql
--- Descrição: Views analíticas para relatórios gerenciais e acompanhamento de alunos.
--- ============================================================================
-
 USE tecnocapacita_db;
 
 -- View 1: Relatório de Desempenho e Faturamento por Curso
