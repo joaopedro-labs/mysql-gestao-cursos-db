@@ -1,9 +1,3 @@
--- ============================================================================
--- Arquivo: 02_triggers_auditoria.sql
--- Descrição: Triggers para controle automático de vagas/matriculados,
---            emissão automática de certificado ao atingir 100% e log de auditoria.
--- ============================================================================
-
 USE tecnocapacita_db;
 
 DELIMITER $$
