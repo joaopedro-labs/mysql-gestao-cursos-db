@@ -1,9 +1,3 @@
--- ============================================================================
--- Arquivo: 04_stored_procedures.sql
--- Descrição: Stored Procedures para matrícula com cálculo de desconto
---            e atualização segura de progresso de aulas.
--- ============================================================================
-
 USE tecnocapacita_db;
 
 DELIMITER $$
