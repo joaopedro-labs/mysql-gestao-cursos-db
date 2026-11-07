@@ -1,9 +1,3 @@
--- ============================================================================
--- Arquivo: 05_dados_teste_e_consultas.sql
--- Descrição: Carga inicial de dados (DML) e execução de testes das Procedures,
---            Triggers e Views.
--- ============================================================================
-
 USE tecnocapacita_db;
 
 -- 1. Inserindo Instrutores
