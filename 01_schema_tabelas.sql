@@ -1,7 +1,5 @@
 -- ============================================================================
 -- Projeto: Banco de Dados Relacional - Plataforma de Cursos (TecnoCapacita DB)
--- Autor: João Pedro Araujo dos Santos (https://github.com/joaopedro-labs)
--- Arquivo: 01_schema_tabelas.sql (DDL - Criação de Tabelas e Constraints)
 -- ============================================================================
 
 CREATE DATABASE IF NOT EXISTS tecnocapacita_db
